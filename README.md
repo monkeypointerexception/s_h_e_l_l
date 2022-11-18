@@ -1,2 +1,2 @@
-# s_h_e_l_l
+# Shell
 A simple shell
